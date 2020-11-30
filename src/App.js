@@ -3,9 +3,9 @@ import './index.css';
 import React from "react";
 import {Typography} from '@material-ui/core/';
 import data from "./data.json";
-import Products from "./Products.js";
-import Filter from './Filter';
-import Cart from './Cart.js';
+import Products from "./components/Products.js";
+import Filter from './components/Filter';
+import Cart from './components/Cart.js';
 
 export default class App extends React.Component {
   constructor() {
