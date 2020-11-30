@@ -1,0 +1,82 @@
+{
+    "products":
+    [
+        {"id": 1, 
+         "title" : "Air Force 1 Pixel", 
+         "image" : "/shoeimages/AF1pixel.png",
+         "price" : 100,
+        "availableSizes" : ["","6", "7", "8"]},
+
+        {"id": 5, 
+            "title" : "Air Force 1 Sage Low", 
+            "image" : "/shoeimages/AF1SageLow.jpg",
+            "price" : 100,
+           "availableSizes" : ["","7", "8", "10", "11"]},
+
+        {"id": 3, 
+         "title" : "Air Force 1 Shadow SE", 
+         "image" : "/shoeimages/AF1ShadowSE.jpg",
+         "price" : 120,
+        "availableSizes" : ["", "6", "8", "9"]},
+
+        {"id": 4, 
+            "title" : "Air Force 1 07", 
+            "image" : "/shoeimages/AF107.jpg",
+            "price" : 110,
+           "availableSizes" : ["","9", "10"]},
+
+        {"id": 2, 
+            "title" : "Air Jordan 1 Mid", 
+            "image" : "/shoeimages/AirJordan1Mid.jpg",
+            "price" : 115,
+           "availableSizes" : ["","6", "7", "9", "10"]},
+
+        {"id": 6, 
+            "title" : "Air Max 90", 
+            "image" : "/shoeimages/AirMax90.jpg",
+            "price" : 125,
+           "availableSizes" : ["","6", "7", "8", "9", "10"]},
+
+        {"id": 7, 
+            "title" : "Air Max 90 Twist", 
+            "image" : "/shoeimages/AirMax90Twist.jpg",
+            "price" : 130,
+           "availableSizes" : ["","7", "9" ]},
+
+           {"id": 9, 
+            "title" : "Air Max 97", 
+            "image" : "/shoeimages/AirMax97.jpg",
+            "price" : 130,
+           "availableSizes" : [ "","6", "8", "9"]},
+
+           {"id": 8, 
+               "title" : "Air Max Thea", 
+               "image" : "/shoeimages/AirMaxThea.jpg",
+               "price" : 120,
+              "availableSizes" : ["","6", "9", "10"]},
+
+           {"id": 11, 
+               "title" : "Air Monarch IV", 
+               "image" : "/shoeimages/AirMonarchIV.jpg",
+               "price" : 100,
+              "availableSizes" : ["","6", "7", "8", "9", "10", "11"]},
+
+           {"id": 10, 
+               "title" : "Air Zoom Pegasus 37", 
+               "image" : "/shoeimages/AirZoomPegasus37.jpg",
+               "price" : 118,
+              "availableSizes" : ["", "7", "8", "9", "10"]},
+
+           {"id": 12, 
+               "title" : "Nike DayBreak", 
+               "image" : "/shoeimages/Daybreak.jpg",
+               "price" : 99,
+              "availableSizes" : ["","6", "9"]},
+              {"id": 13, 
+                "title" : "Nike Downshifter 10", 
+                "image" : "/shoeimages/NikeDownshifter10.jpg",
+                "price" : 70,
+               "availableSizes" : ["","6", "8", "10"]}
+
+    ]
+}
