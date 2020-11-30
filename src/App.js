@@ -2,7 +2,7 @@ import './App.css';
 import './index.css';
 import React from "react";
 import {Typography} from '@material-ui/core/';
-import data from "./data.json";
+import data from "./components/data.json";
 import Products from "./components/Products.js";
 import Filter from './components/Filter';
 import Cart from './components/Cart.js';
